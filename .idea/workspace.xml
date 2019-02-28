@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b8e1a88-c4ec-49d2-9ac4-803cf007de1a" name="Default Changelist" comment="day 1">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ExceptionHanding/CatchAll.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ExceptionHanding/ExceptionHanding.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ExceptionHanding/Tax.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/Factorial.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/Mad.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/WordTrampoline.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/Words.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,24 +26,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/Tax.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/Words.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="66">
+              <caret line="3" column="9" lean-forward="true" selection-start-line="2" selection-end-line="27" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/WordTrampoline.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="18" column="87" selection-start-line="18" selection-start-column="87" selection-end-line="18" selection-end-column="87" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/ExceptionHanding.scala">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/CatchAll.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ShortCircuit.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="8" selection-end-column="1" />
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -64,10 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/Introduction/helloworld.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Introduction/Helloworld.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Introduction/TopSctock.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/ImplicitParameters.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Complex.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Complex2.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/OptionalSemicolon.scala" />
@@ -115,6 +119,10 @@
         <option value="$PROJECT_DIR$/src/main/scala/ExceptionHanding/ExceptionHanding.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/ExceptionHanding/CatchAll.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/ExceptionHanding/Tax.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/Factorial.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/Mad.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/Words.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/WordTrampoline.scala" />
       </list>
     </option>
   </component>
@@ -320,7 +328,7 @@
       <workItem from="1551083112128" duration="1584000" />
       <workItem from="1551084701613" duration="6565000" />
       <workItem from="1551148035652" duration="6998000" />
-      <workItem from="1551320457062" duration="8960000" />
+      <workItem from="1551320457062" duration="11377000" />
     </task>
     <task id="LOCAL-00001" summary="day 1">
       <created>1548507971527</created>
@@ -333,7 +341,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59409000" />
+    <option name="totallyTimeSpent" value="61826000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,22 +419,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="day 1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/OptionalSemicolon.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/CopApp.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/chap1_4/TopSctock.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/chap1_4/ImplicitParameters.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -746,12 +738,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/Tax.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/ExceptionHanding.scala">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/CatchAll.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -760,8 +748,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/ExceptionHanding.scala">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/Tax.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/Mad.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="n#mad#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/Factorial.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="n#factorial#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/Words.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="2" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ProgrammingRecursions/WordTrampoline.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="87" selection-start-line="18" selection-start-column="87" selection-end-line="18" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
