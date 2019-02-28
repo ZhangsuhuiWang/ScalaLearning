@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b8e1a88-c4ec-49d2-9ac4-803cf007de1a" name="Default Changelist" comment="day 1">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatching/Extractor.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatching/MatchList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatching/MatchTuples.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatching/MatchTypes.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatching/MatchUsingRegex.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatching/MatchWithField.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatching/RegularExpr.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatching/ThingsAcceptor.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatching/TradeStock.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatching/Wildcard.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ExceptionHanding/CatchAll.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ExceptionHanding/ExceptionHanding.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ExceptionHanding/Tax.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,49 +25,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/PatternMatching/TradeStock.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/Tax.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/PatternMatching/ThingsAcceptor.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/PatternMatching/Extractor.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/PatternMatching/RegularExpr.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="264">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/PatternMatching/MatchUsingRegex.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/ExceptionHanding.scala">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/CatchAll.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-              <folding>
-                <element signature="n#process#0" expanded="true" />
-              </folding>
+            <state>
+              <caret selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -96,9 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/test.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/ex/example.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Introduction/TopStock.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Introduction/helloworld.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Introduction/Helloworld.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Introduction/TopSctock.scala" />
@@ -147,6 +112,9 @@
         <option value="$PROJECT_DIR$/src/main/scala/PatternMatching/Extractor.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/PatternMatching/RegularExpr.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/PatternMatching/MatchUsingRegex.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ExceptionHanding/ExceptionHanding.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ExceptionHanding/CatchAll.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ExceptionHanding/Tax.scala" />
       </list>
     </option>
   </component>
@@ -188,14 +156,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="PatternMatching" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,7 +320,7 @@
       <workItem from="1551083112128" duration="1584000" />
       <workItem from="1551084701613" duration="6565000" />
       <workItem from="1551148035652" duration="6998000" />
-      <workItem from="1551320457062" duration="6795000" />
+      <workItem from="1551320457062" duration="8960000" />
     </task>
     <task id="LOCAL-00001" summary="day 1">
       <created>1548507971527</created>
@@ -373,7 +333,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57244000" />
+    <option name="totallyTimeSpent" value="59409000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,7 +347,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24297924" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24297924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -402,7 +362,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="13" weight="0.32941177" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32941177" />
@@ -451,10 +411,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="day 1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/ex/example.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Introduction/TopStock.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Introduction/Helloworld.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Introduction/package.scala" />
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -782,6 +738,30 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/newnew.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/Tax.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/CatchAll.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ExceptionHanding/ExceptionHanding.scala">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
