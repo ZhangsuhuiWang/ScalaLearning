@@ -4,7 +4,7 @@
 		module="scalalearning$sources_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20190301103152"
+		publication="20190302130906"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
