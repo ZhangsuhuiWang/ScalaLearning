@@ -10,3 +10,4 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-testkit" % akkaVersion,
   "org.scalatest" %% "scalatest" % "3.0.5" % "test"
 )
+libraryDependencies += "junit" % "junit" % "4.8.2"
